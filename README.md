@@ -1,6 +1,6 @@
 # functions
 
-- Mail - admin@testowy.lol
+- Mail - admin@thv2.fun
 
 - Discord - thishelper
 
